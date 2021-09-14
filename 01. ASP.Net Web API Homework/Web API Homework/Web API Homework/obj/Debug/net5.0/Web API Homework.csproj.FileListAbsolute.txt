@@ -1,0 +1,23 @@
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\appsettings.json
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\Web API Homework.exe
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\Web API Homework.deps.json
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\Web API Homework.runtimeconfig.json
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\Web API Homework.runtimeconfig.dev.json
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\Web API Homework.dll
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\ref\Web API Homework.dll
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\bin\Debug\net5.0\Web API Homework.pdb
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.AssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\staticwebassets\Web API Homework.StaticWebAssets.Manifest.cache
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\staticwebassets\Web API Homework.StaticWebAssets.xml
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\scopedcss\bundle\Web API Homework.styles.css
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.RazorTargetAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.dll
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\ref\Web API Homework.dll
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.pdb
+C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\obj\Debug\net5.0\Web API Homework.genruntimeconfig.cache
