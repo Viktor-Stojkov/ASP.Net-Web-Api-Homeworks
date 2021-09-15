@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Web_API_Homework
-build_property.ProjectDir = C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\ASP.Net-Web-Api-Homeworks\01. ASP.Net Web API Homework\Web API Homework\Web API Homework\
+build_property.RootNamespace = FavoriteMovies
+build_property.ProjectDir = C:\Users\vices\Desktop\SEDC\dotNet\ASP.Net Web API Homework\ASP.Net-Web-Api-Homeworks\WorkshopSEDC\FavoriteMovies\FavoriteMovies\

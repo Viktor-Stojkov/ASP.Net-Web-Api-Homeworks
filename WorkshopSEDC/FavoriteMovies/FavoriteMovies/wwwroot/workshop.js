@@ -9,9 +9,9 @@ let getByIdInput = document.getElementById("input2");
 let addNoteInput = document.getElementById("input3");
 let deleteInput = document.getElementById("delete");
 
-let port = "52314";  // Using new localhost from my pc
+let port = "12026";
 let getAllNotes = async () => {
-    let url = "http://localhost:" + port + "/api/users";
+    let url = "http://localhost:" + port + "/api/favoritemovies";
 
     let response = await fetch(url);
     console.log(response);
@@ -21,23 +21,23 @@ let getAllNotes = async () => {
 };
 
 let getNoteById = async () => {
-    let url = "http://localhost:" + port + "/api/users/" + getByIdInput.value;
+    let url = "http://localhost:" + port + "/api/favoritemovies/" + getByIdInput.value;
 
     let response = await fetch(url);
     let data = await response.text();
     console.log(data);
 };
 
-//let getInfo = async () => {
-//    let url = "http://localhost:" + port + "/api/users/info";
+let getInfo = async () => {
+    let url = "http://localhost:" + port + "/api/favoritemovies/info";
 
-//    let response = await fetch(url);
-//    let data = await response.text();
-//    console.log(data);
+    let response = await fetch(url);
+    let data = await response.text();
+    console.log(data);
 };
 
 let addNote = async () => {
-    let url = "http://localhost:" + port + "/api/users";
+    let url = "http://localhost:" + port + "/api/favoritemovies";
     var response = await fetch(url, {
         method: 'POST',
         headers: {
@@ -50,7 +50,7 @@ let addNote = async () => {
 }
 
 let deleteNote = async () => {
-    let url = "http://localhost:" + port + "/api/users";
+    let url = "http://localhost:" + port + "/api/favoritemovies";
     var response = await fetch(url, {
         method: 'DELETE',
         headers: {
